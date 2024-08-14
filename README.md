@@ -40,11 +40,6 @@ This is a Rock-Paper-Scissors game implemented using hand tracking technology. T
 
 Contributions are welcome! If you'd like to improve the game or add new features, please fork this repository and submit a pull request.
 
-**License**
----------
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 **Acknowledgments**
 ----------------
 
